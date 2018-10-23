@@ -6,3 +6,24 @@
 [23-Oct-2018 00:05:36 UTC] PHP Parse error:  syntax error, unexpected ')', expecting end of file in /app/public/wp-content/themes/fictional-university-theme/index.php on line 7
 [23-Oct-2018 01:16:06 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /app/public/wp-content/themes/fictional-university-theme/page.php on line 22
 [23-Oct-2018 01:36:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/fictional-university-theme/page.php on line 36
+[23-Oct-2018 20:12:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 10
+[23-Oct-2018 20:12:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 10
+[23-Oct-2018 20:12:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 48
+[23-Oct-2018 20:13:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 50
+[23-Oct-2018 20:13:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 50
+[23-Oct-2018 20:13:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 50
+[23-Oct-2018 20:13:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 50
+[23-Oct-2018 20:13:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 49
+[23-Oct-2018 20:13:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 48
+[23-Oct-2018 20:13:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 42
+[23-Oct-2018 20:14:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 40
+[23-Oct-2018 20:15:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 40
+[23-Oct-2018 20:15:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 40
+[23-Oct-2018 20:15:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 40
+[23-Oct-2018 20:15:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 39
+[23-Oct-2018 20:16:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 10
+[23-Oct-2018 20:16:49 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 10
+[23-Oct-2018 20:16:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 10
+[23-Oct-2018 20:17:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 10
+[23-Oct-2018 20:17:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 10
+[23-Oct-2018 20:17:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 10
