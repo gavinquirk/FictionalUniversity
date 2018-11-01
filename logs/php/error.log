@@ -28,3 +28,11 @@
 [23-Oct-2018 20:17:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 10
 [23-Oct-2018 20:17:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 10
 [23-Oct-2018 22:35:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_post_types' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[31-Oct-2018 22:40:21 UTC] PHP Parse error:  syntax error, unexpected ''orderby'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/fictional-university-theme/front-page.php on line 26
+[31-Oct-2018 22:45:27 UTC] PHP Warning:  Use of undefined constant x - assumed 'x' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/front-page.php on line 30
+[31-Oct-2018 22:45:27 UTC] PHP Warning:  Use of undefined constant x - assumed 'x' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/front-page.php on line 31
+[31-Oct-2018 22:45:27 UTC] PHP Warning:  Use of undefined constant x - assumed 'x' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/front-page.php on line 32
+[31-Oct-2018 22:46:47 UTC] PHP Parse error:  syntax error, unexpected '$homepageEvents' (T_VARIABLE) in /app/public/wp-content/themes/fictional-university-theme/front-page.php on line 23
+[31-Oct-2018 22:57:56 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[31-Oct-2018 22:57:56 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[31-Oct-2018 23:35:33 UTC] PHP Parse error:  syntax error, unexpected '&' in /app/public/wp-content/themes/fictional-university-theme/page-past-events.php on line 23
