@@ -21,4 +21,12 @@ INSERT INTO `wp_usermeta` VALUES
 (17,1,"wp_dashboard_quick_press_last_post_id","44"),
 (18,1,"community-events-location","a:1:{s:2:\"ip\";s:12:\"192.168.95.0\";}"),
 (19,1,"managenav-menuscolumnshidden","a:5:{i:0;s:11:\"link-target\";i:1;s:11:\"css-classes\";i:2;s:3:\"xfn\";i:3;s:11:\"description\";i:4;s:15:\"title-attribute\";}"),
-(20,1,"metaboxhidden_nav-menus","a:1:{i:0;s:12:\"add-post_tag\";}");
+(20,1,"metaboxhidden_nav-menus","a:1:{i:0;s:12:\"add-post_tag\";}"),
+(21,1,"closedpostboxes_post","a:0:{}"),
+(22,1,"metaboxhidden_post","a:7:{i:0;s:12:\"revisionsdiv\";i:1;s:13:\"trackbacksdiv\";i:2;s:10:\"postcustom\";i:3;s:16:\"commentstatusdiv\";i:4;s:11:\"commentsdiv\";i:5;s:7:\"slugdiv\";i:6;s:9:\"authordiv\";}"),
+(23,1,"closedpostboxes_event","a:1:{i:0;s:11:\"postexcerpt\";}"),
+(24,1,"metaboxhidden_event","a:1:{i:0;s:7:\"slugdiv\";}"),
+(25,1,"closedpostboxes_acf-field-group","a:0:{}"),
+(26,1,"metaboxhidden_acf-field-group","a:1:{i:0;s:7:\"slugdiv\";}"),
+(27,1,"wp_user-settings","libraryContent=browse"),
+(28,1,"wp_user-settings-time","1541296008");

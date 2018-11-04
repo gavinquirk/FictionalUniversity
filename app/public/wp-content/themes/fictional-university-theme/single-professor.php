@@ -15,9 +15,10 @@
       </div>  
     </div>
 
-
+    <!-- Main Content Container -->
     <div class="container container--narrow page-section">
 
+      <!-- Written Content -->
       <div class="generic-content">
         <div class="row group">
             <div class="one-third">
@@ -30,7 +31,7 @@
       </div>
 
       <?php 
-      
+        // Related Programs
         $relatedPrograms = get_field('related_programs');
 
         if ($relatedPrograms) {
