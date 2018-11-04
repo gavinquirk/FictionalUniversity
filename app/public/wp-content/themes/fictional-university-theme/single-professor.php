@@ -7,8 +7,6 @@
     pageBanner();
     ?>
 
-
-
     <!-- Main Content Container -->
     <div class="container container--narrow page-section">
 
