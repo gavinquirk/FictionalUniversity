@@ -36,3 +36,5 @@
 [31-Oct-2018 22:57:56 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
 [31-Oct-2018 22:57:56 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
 [31-Oct-2018 23:35:33 UTC] PHP Parse error:  syntax error, unexpected '&' in /app/public/wp-content/themes/fictional-university-theme/page-past-events.php on line 23
+[01-Nov-2018 00:22:11 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/single-event.php on line 36
+[01-Nov-2018 00:39:59 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/single-program.php on line 56
