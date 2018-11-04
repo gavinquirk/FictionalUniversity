@@ -39,3 +39,13 @@
 [01-Nov-2018 00:22:11 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/single-event.php on line 36
 [01-Nov-2018 00:39:59 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/single-program.php on line 56
 [04-Nov-2018 01:34:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 24
+[04-Nov-2018 23:26:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 18
+[04-Nov-2018 23:26:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 18
+[04-Nov-2018 23:31:40 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in /app/public/wp-content/themes/fictional-university-theme/page.php on line 7 and exactly 1 expected in /app/public/wp-content/themes/fictional-university-theme/functions.php:5
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/page.php(7): pageBanner()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 5
