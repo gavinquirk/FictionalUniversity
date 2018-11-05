@@ -43,8 +43,9 @@ class Search {
   }
 
   getResults() {
-    this.resultsDiv.html("imaging search results here");
-    this.isSpinnerVisible = false;
+    $.getJSON('http://localhost:3000/wp-json/wp/v2/posts?search=' + this.searchField.val(), function(posts) {
+      alert(posts);
+    });
   }
 
   keyPressDispatcher(e) {
