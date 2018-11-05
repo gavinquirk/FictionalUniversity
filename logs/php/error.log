@@ -49,3 +49,11 @@ Stack trace:
 #3 /app/public/index.php(17): require('/app/public/wp-...')
 #4 {main}
   thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 5
+[05-Nov-2018 00:56:43 UTC] PHP Parse error:  syntax error, unexpected ''template-parts/content-event'' (T_CONSTANT_ENCAPSED_STRING) in /app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 14
+[05-Nov-2018 00:56:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_tempalate_part() in /app/public/wp-content/themes/fictional-university-theme/archive-event.php:14
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 14
