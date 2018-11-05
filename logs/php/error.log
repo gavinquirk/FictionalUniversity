@@ -58,3 +58,10 @@ Stack trace:
 #3 {main}
   thrown in /app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 14
 [05-Nov-2018 01:15:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 88
+[05-Nov-2018 03:10:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/fictional-university-theme/single-program.php on line 100
+[05-Nov-2018 03:13:10 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/single-program.php on line 101
+[05-Nov-2018 03:14:00 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/single-program.php on line 101
+[05-Nov-2018 03:14:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/single-program.php on line 105
+[05-Nov-2018 03:16:29 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/single-program.php on line 102
+[05-Nov-2018 03:20:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/single-program.php on line 100
+[05-Nov-2018 03:21:08 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/single-program.php on line 100
