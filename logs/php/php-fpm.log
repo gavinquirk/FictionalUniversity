@@ -22,3 +22,7 @@
 [05-Nov-2018 05:55:07] NOTICE: exiting, bye-bye!
 [05-Nov-2018 06:20:24] NOTICE: fpm is running, pid 55
 [05-Nov-2018 06:20:24] NOTICE: ready to handle connections
+[05-Nov-2018 07:28:52] NOTICE: Terminating ...
+[05-Nov-2018 07:28:52] NOTICE: exiting, bye-bye!
+[05-Nov-2018 07:29:00] NOTICE: fpm is running, pid 53
+[05-Nov-2018 07:29:00] NOTICE: ready to handle connections
