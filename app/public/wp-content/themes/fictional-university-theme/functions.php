@@ -54,13 +54,22 @@
 
     add_action('after_setup_theme', 'university_features');
 
+    // Post Query Adjustments
     function university_adjust_queries($query) {
+
+        // Campus Query
+        if (!is_admin() AND is_post_type_archive('campus') AND $query->is_main_query()) {
+            $query->set('posts_per_page', '-1');
+        }
+
+        // Program Query
         if (!is_admin() AND is_post_type_archive('program') AND $query->is_main_query()) {
             $query->set('orderby', 'title');
             $query->set('order', 'ASC');
             $query->set('posts_per_page', '-1');
         }
 
+        // Event Query
         if (!is_admin() AND is_post_type_archive('event') AND $query->is_main_query()) {
             $today = date('Ymd');
             $query->set('meta_key', 'event_date');
@@ -74,13 +83,13 @@
                   'type' => 'numeric'
                 )
               ));
-
-
         }
     }
 
+    // Adjust queries before get posts
     add_action('pre_get_posts', 'university_adjust_queries');
 
+    // Google Maps API Key
     function universityMapKey($api) {
         $api['key'] = 'AIzaSyC1mjofgB5sZUwFey-7iue2srDN1bjUHC8';
         return $api;
