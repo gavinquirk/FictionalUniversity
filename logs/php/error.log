@@ -65,3 +65,7 @@ Stack trace:
 [05-Nov-2018 03:16:29 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/single-program.php on line 102
 [05-Nov-2018 03:20:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/single-program.php on line 100
 [05-Nov-2018 03:21:08 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/single-program.php on line 100
+[19-Nov-2018 21:24:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/fictional-university-theme/inc/search-route.php on line 18
+[19-Nov-2018 21:24:25 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/fictional-university-theme/inc/search-route.php on line 18
+[19-Nov-2018 22:09:25 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /app/public/wp-content/themes/fictional-university-theme/inc/search-route.php on line 38
+[19-Nov-2018 22:09:25 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /app/public/wp-content/themes/fictional-university-theme/inc/search-route.php on line 38
