@@ -71,3 +71,11 @@ Stack trace:
 [19-Nov-2018 22:09:25 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /app/public/wp-content/themes/fictional-university-theme/inc/search-route.php on line 38
 [20-Nov-2018 02:52:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/search.php on line 17
 [20-Nov-2018 03:05:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/search.php on line 20
+[20-Nov-2018 04:57:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url_() in /app/public/wp-content/themes/fictional-university-theme/functions.php:138
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): ourHeaderUrl('https://wordpre...')
+#1 /app/public/wp-includes/plugin.php(203): WP_Hook->apply_filters('https://wordpre...', Array)
+#2 /app/public/wp-login.php(128): apply_filters('login_headerurl', 'https://wordpre...')
+#3 /app/public/wp-login.php(1012): login_header('Log In', '', Object(WP_Error))
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 138
