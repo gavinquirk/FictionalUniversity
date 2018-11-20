@@ -46,7 +46,8 @@ add_action('rest_api_init', 'university_custom_rest');
         wp_enqueue_style('font_awesome', '//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
         wp_enqueue_style('university_main_styles', get_stylesheet_uri(), null, '1.0');
         wp_localize_script('main_university_javascript', 'universityData', array(
-            'root_url' => get_site_url()
+            'root_url' => get_site_url(),
+            'nonce' => wp_create_nonce('wp_rest')
         ));
     }
 
